@@ -1,1 +1,1 @@
-an engaging and interactive online quiz platform designed to challenge your knowledge, test your skills, and provide a fun learning experience for users of all ages. Whether you're a trivia aficionado or just looking to brush up on your general knowledge!
+An engaging and interactive online quiz platform designed to challenge your knowledge, test your skills, and provide a fun learning experience for users of all ages. Whether you're a trivia aficionado or just looking to brush up on your general knowledge!
